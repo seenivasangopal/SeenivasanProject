@@ -7,6 +7,7 @@ public class Bank extends AxisBank{
 		System.out.println("branch updated by mani");
 		System.out.println("updated by seenu");
 		System.out.println("second updated by seenu");
+		System.out.println("second updated by mani");
 	}
 
 }
