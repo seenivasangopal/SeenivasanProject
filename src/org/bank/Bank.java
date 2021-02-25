@@ -5,6 +5,7 @@ public class Bank extends AxisBank{
 		// TODO Auto-generated method stub
 		System.out.println("printing method");
 		System.out.println("branch updated by mani");
+		System.out.println("updated by seenu");
 	}
 
 }
